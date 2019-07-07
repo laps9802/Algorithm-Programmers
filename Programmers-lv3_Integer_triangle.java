@@ -1,6 +1,6 @@
 package part4;
 
-public class Programmers-lv3_Integer_triangle {
+public class Programmers_lv3_Integer_triangle {
     public int solution(int[][] triangle) {
     	for(int i=triangle.length-1; i>=1; i--)
     	{
