@@ -1,5 +1,3 @@
-package part3;
-
 import java.util.PriorityQueue;
 
 public class Programmers_lv2_Hotter {
